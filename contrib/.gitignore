@@ -1,5 +1,6 @@
 *.vcxproj.user
 *.VC.db
+*.VC.opendb
 
 .vs
 v140/
