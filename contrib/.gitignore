@@ -1,0 +1,8 @@
+*.vcxproj.user
+*.VC.db
+
+.vs
+v140/
+Debug/
+Release/
+packages/
